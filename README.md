@@ -43,11 +43,3 @@ To ensure the integrity of the school's data and the security of the infrastruct
 - npm or yarn
 - Authorized access to the Sanity Project
 
-### Installation & Local Environment
-```bash
-# Clone the internal repository
-git clone <repository-url>
-cd school-cms
-
-# Install dependencies
-npm install
